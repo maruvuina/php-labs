@@ -1,0 +1,26 @@
+body {
+    background-color: #DCDCDC;
+    font-family: ‘Raleway’, sans-serif;
+}
+.main {
+    margin: 5% 0 0 10%;
+}
+h2 {
+    color: #397239;
+    line-height: 40px;
+    margin: 0 0 16px;
+}
+
+h3 {
+    color: #222;
+    line-height: 32px;
+    margin: 0 0 14px;
+
+}
+
+p {
+    color: #222;
+    font-size: 18px;
+    padding-left: 16px;
+    display: inline-block
+}
